@@ -17,12 +17,12 @@
        ― Nikola Tesla
    
   ## Liberty
-   You may don't have a phone just because you have a freedom to.
-   If everyone makes lobothomy, you aren't forced to do so.
-   You have a freedom of choise along with the other freedoms
-   like transportation, vote and communication.
-   If you are not able to use your freedoms learn how. 
-   If it's not possible to use your freedoms fight for.
+   You may don't have a phone simply because you have a freedom to. <br>
+   If everyone makes lobothomy, you aren't forced to do so. <br>
+   You have a freedom of choise along with the other freedoms <br>
+   like transportation, vote and communication. <br>
+   If you are not able to use your freedoms learn how. <br>
+   If it's not possible to use your freedoms fight for. <br>
    
   > “We are not rich by what we possess but by what we can do without.”
       ― Immanuel Kant
