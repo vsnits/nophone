@@ -1,4 +1,4 @@
-# Reasons to have no phone
+# Reasons to avoid phone
    
   ## Privacy
   All privacy issues with smartphone is impossible to fix. <br>
