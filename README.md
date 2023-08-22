@@ -9,7 +9,7 @@
   You don't expect what they can predict (don't forget AI)
    
  ##  Life
-   Without a close contact with society you rely more on yourself that on someone else. <br>
+   Without a close contact with society you rely more on yourself than on someone else. <br>
    You can solve the problems in another way, you can say that is intresting. <br>
   Plus, no stress, no ads, notifications and no .. propaganda. <br>
    
