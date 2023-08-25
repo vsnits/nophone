@@ -24,3 +24,24 @@
    
   > “We are not rich by what we possess but by what we can do without.”
       ― Immanuel Kant
+
+# Stop 2FA
+I strongly recommend to `aviod` double factor verification via `phone`. <br>
+## What does not do:
+* Protect your privacy
+* Respect your freedom
+## What it actually does:
+* Helps goverment surveillance
+* Increases risk to lost authentification key
+* Increases risk to loose personal data
+* Helps censorship
+## Is it helps business?
+In a nutshell, yes. It provides better abbility to track, register and censor.
+## Is there alternative ways for privacy purposes?
+Cryptography itself garants safety. 256 bit key almost impossible to break. <br>
+Much easier to loose key thanks to mobile phone. <br>
+## Bot accounts 
+Simply use capcha! Multiple accounts will be allowed, but .. is this a real problem? <br>
+No bigger problem than huge data-centers!
+
+
