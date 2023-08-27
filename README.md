@@ -27,7 +27,7 @@
 
 # Stop 2FA
 I strongly recommend to `aviod` double factor verification via `phone`. <br>
-## What does not do:
+## What it does not do:
 * Protect your privacy
 * Respect your freedom
 ## What it actually does:
