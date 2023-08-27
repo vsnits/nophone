@@ -35,7 +35,7 @@ I strongly recommend to `aviod` double factor verification via `phone`. <br>
 * Increases risk to lost authentification key
 * Increases risk to loose personal data
 * Helps censorship
-## Is it helps business?
+## Does it helps business?
 In a nutshell, yes. It provides better abbility to track, register and censor.
 ## Is there alternative ways for privacy purposes?
 Cryptography itself grants safety. 256 bit key almost impossible to break. <br>
