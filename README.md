@@ -38,10 +38,11 @@ I strongly recommend to `aviod` double factor verification via `phone`. <br>
 ## Does it helps business?
 In a nutshell, yes. It provides better abbility to track, register and censor.
 ## Is there alternative ways for privacy purpose?
-Cryptography itself grants safety. 256 bit key almost impossible to break. <br>
-Much easier to loose key thanks to mobile phone. <br>
+Cryptography itself grants safety. 256 bit key almost impossible to crack. <br>
+Much easier to loose key thanks to mobile phone. You might think, additional checks
+grant more safety, but this is not true. The more data you share, the more likely you loose it.
 ## Bot accounts  
 Capcha! Multiple accounts will be allowed, but .. is this a real problem? <br>
-Not a bigger problem than huge data-centers!
+No more problem than keepin' giant data centers!
 
 
