@@ -26,23 +26,53 @@
       ― Immanuel Kant
 
 # Stop 2FA
-I strongly recommend to `aviod` double factor verification via `phone`. <br>
-## What it does not do:
+I strongly recommend to `aviod` double factor verification via `phone` <br>
+#
+## It does not do:
 * Protect your privacy
 * Respect your freedom
-## What it actually does:
+
+## It actually does:
 * Helps goverment surveillance
-* Increases risk to lost authentification key
+* Increases risk to loose authentification key
 * Increases risk to loose personal data
 * Helps censorship
+* Nullifies VPN
+
 ## Does it helps business?
 In a nutshell, yes. It provides better abbility to track, register and censor.
-## Alternative ways for privacy purpose?
+
+## Alternative way for privacy purpose?
 Cryptography itself grants safety. 256 bit key almost impossible to crack. <br>
-Much easier to loose key thanks to mobile phone. You might think, additional checks <br>
-grant more safety, but this is not true. The more data you share, the more likely you loose it.
-## Bot accounts  
+Much easier to loose the key thanks to mobile phone. You might think, additional checks <br>
+grant the more safety, but this is not true. The more data you share, the more likely you loose it.
+
+## Bot accounts
 Capcha! Multiple accounts will be allowed, but .. is this a real problem? <br>
 No more problem than keepin' giant data centers!
+
+# Free web four rules
+
+> A website shall be..
+
+## A place of collaboration
+Collaboration means discuss something, share something, promote something and so on. <br>
+Web apps are not such good, because it can't be better than the normally installed programs. <br>
+Any AI shall also be open and shared, altough such machines is not easy to build at home. <br>
+AI developed in scince purpuse and scince achievements belong to everyone.
+
+## Fairly downloadable
+Any hosted content shall might be downloaded without any confirms or payments. <br>
+This includes open license, no obfuscation and no other problems to read the source code. <br>
+If the site sells digital content, free will donations are ok, because data can be cloned unlimited times.
+
+## Cookie-free
+Website shall require as less conditions as possible. <br>
+No required Cookies, Location, Notification and so on. <br>
+This is because customer have a right to privacy along with a right to use any service.
+
+## Anonymous well
+Non-existence of Authentication is priceless. The less data you share the more free you feel. <br>
+Only anonymously freedom of speech is complete. Thus, Anonymous users shall be at least equal to registred.
 
 
