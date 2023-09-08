@@ -91,7 +91,7 @@ Only anonymously freedom of speech is complete. Thus, Anonymous users shall be a
   * [Free software phylosophy (gnu)](https://www.gnu.org/philosophy/philosophy.html)
   * [Free Software Foundation  (movement)](https://www.fsf.org/about)
   * [Richard Stallman (website)](https://stallman.org)
-  * [Mass Survilance (wikipedia)](https://en.wikipedia.org/wiki/Mass_surveillance)
+  * [Mass surveillance (wikipedia)](https://en.wikipedia.org/wiki/Mass_surveillance)
   * [FOSS (free open source software) (wikipedia)](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 
 
