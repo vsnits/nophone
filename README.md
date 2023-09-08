@@ -75,7 +75,7 @@ This is because customer have a right to privacy along with a right to use any s
 Non-existence of Authentication is priceless. The less data you share the more free you feel. <br>
 Only anonymously freedom of speech is complete. Thus, Anonymous users shall be at least equal to registred.
 
- # Understand free software..
+ # Understand free software
   The concept of the [propritary software](https://en.wikipedia.org/wiki/Proprietary_software) 
   is central in free software movement and privacy protection. <br>
   ## Core thesis:
