@@ -75,4 +75,23 @@ This is because customer have a right to privacy along with a right to use any s
 Non-existence of Authentication is priceless. The less data you share the more free you feel. <br>
 Only anonymously freedom of speech is complete. Thus, Anonymous users shall be at least equal to registred.
 
+ # Understand free software..
+  The concept of the [propritary software](https://en.wikipedia.org/wiki/Proprietary_software) 
+  is central in free software movement and privacy protection. <br>
+  ## Core thesis:
+  Closed source is often [malware](https://en.wikipedia.org/wiki/Malware)
+  #
+  Nobody can check what program actually do, unless it's source published. <br>
+  Such a kind of programs maintained by a commercial company, generally should be avoided. <br>
+  Otherside, free software is maintained by community. It may have a developer team, or may not have. <br>
+  Cetralised and decentralised free software discussed in essay [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) <br>
+
+
+  ## You can find info about free software and privacy here:
+  * [Free software phylosophy (gnu)](https://www.gnu.org/philosophy/philosophy.html)
+  * [Free Software Foundation  (movement)](https://www.fsf.org/about)
+  * [Richard Stallman (website)](https://stallman.org)
+  * [Mass Survilance (wikipedia)](https://en.wikipedia.org/wiki/Mass_surveillance)
+  * [FOSS (free open source software) (wikipedia)](https://en.wikipedia.org/wiki/Free_and_open-source_software)
+
 
