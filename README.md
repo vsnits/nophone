@@ -5,7 +5,7 @@
   Starting from Sim, ongoing with whole Operating System, <br>
   finishing with independent GPS module. <br>
   Data isn't belongs to you anymore. It's definetely shared with goverment. <br>
-  You can't really know which things they know and which does not know, <br>
+  You can't really know which things they know and which do not know, <br>
   You don't expect what they can predict (don't forget AI)
   
 > “Under observation, we act less free, which means we effectively are less free.”
