@@ -95,7 +95,7 @@ Only anonymously, the freedom of speech is complete. Therefore, Anonymous users 
   The concept of the [propritary software](https://en.wikipedia.org/wiki/Proprietary_software) 
   is central in free software movement and privacy protection. <br>
   "Owner" never publish source code, so nobody can check what program actually does. <br>
-  It can be taken away from you, either contain a kind of [backdoor](https://en.wikipedia.org/wiki/Backdoor_(computing)). <br>
+  It can be taken back from you, either contain a kind of [backdoor](https://en.wikipedia.org/wiki/Backdoor_(computing)). <br>
   Otherside, free software is maintained by community. It may have a developer team, or may not have. <br>
   Cetralised and decentralised free software discussed in essay [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) <br>
 
