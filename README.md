@@ -4,7 +4,7 @@
   Can you imagine a group of people which knew about you everythin'  <br>
   and, at the same time, you knew about them nothing? I certainly can't. <br>
   Now, let's be honest: the fight is lost; Look at the Sim, Operating System, GPS and more.. <br>
-  Your data isn't belongs to you anymore. It's completely shared with those who share it with goverment. <br>
+  Your data isn't belongs to you anymore. It's completely shared with goverment. <br>
   You can't really know which things they know and which do not know, <br>
   You can't even expect what they can predict; It's all aginst criminals!
   
