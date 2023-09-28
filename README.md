@@ -6,7 +6,7 @@
   Now, let's be honest: the fight is lost; Look at the Sim, Operating System, GPS and more.. <br>
   Your data isn't belongs to you anymore. It's completely shared with goverment. <br>
   You can't really know which things they know and which do not know, <br>
-  You can't even expect what they can predict; It's all aginst criminals!
+  You can't even expect what they can predict; It's all against criminals!
   
 > “Isn't it pretty to think so.”
 ― Ernest Hemingway
